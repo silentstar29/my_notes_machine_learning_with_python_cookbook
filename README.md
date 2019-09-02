@@ -1,1 +1,1 @@
-# my_notes_machine_learning_with_python_cookbook
+# My jupyter notebooks/code samples from Chris Albon's Machine Learning with Python Cookbook
